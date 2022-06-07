@@ -1,6 +1,5 @@
 import './handles.css'
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 function Handles() {
     function openEmail()
     {
