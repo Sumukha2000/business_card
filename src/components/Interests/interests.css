@@ -1,0 +1,46 @@
+.interests {
+    color: #1A1B21;
+    background: #1A1B21;
+    padding-bottom: 10px;
+    padding-top:1px;
+    width: 317px;
+    height: 80px;
+    margin-left: 110px;
+}
+
+
+.interests_title {
+    /* Interests */
+
+
+    width: 242.71px;
+    height: 22px;
+    padding-left: 20px;
+    left: 152px;
+    top: 535px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+
+
+    color: #F5F5F5;
+}
+.interests_content {
+    width: 247px;
+    padding-left: 20px;
+    height: 61px;
+    left: 152px;
+    top: 561px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* or 15px */
+
+
+    color: #DCDCDC;
+}

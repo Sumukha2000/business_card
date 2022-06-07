@@ -1,0 +1,102 @@
+
+.img-card{
+
+
+    padding-top:50px;
+}
+.pp {
+    margin-left:110px;
+   
+    width: 317px;
+    height: 317px;
+    left: 116px;
+    top: 74px;
+   
+    border-radius: 10px 10px 0px  0px;
+}
+.quickintro {
+    color: #1A1B21;
+    background: #1A1B21;
+    padding-bottom:10px;
+    width: 317px;
+    height: 80px;
+    margin-left: 110px;
+    
+}
+.name {
+    width: 317px;
+    height: 100px;
+    color: #FFFFFF;
+    padding-block:5px;
+    margin: auto;
+    width: 178.06px;
+    height: 25.81px;
+    left: 186px;
+    top: 382px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.designation {
+    margin: auto;
+    padding-block: 5px;
+    width: 317px;
+    height: 100px;
+    color: #F3BF99;
+    width: 178.06px;
+    height: 14.19px;
+    left: 186px;
+    top: 414px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.8px;
+    line-height: 15px;
+    text-align: center;
+}
+.website {
+    margin: auto;
+    color: #F5F5F5;
+    
+    width: 317px;
+    height: 100px;
+    height: 16px;
+    left: 161px;
+    top: 437px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+
+    text-align: center;
+}
+.address {
+    margin: auto;
+    color: #F5F5F5;
+    width: 228px;
+    height: 16px;
+    padding-block: 5px;
+    left: 161px;
+    top: 47px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+    /* identical to box height, or 15px */
+
+    text-align: center;
+}
+a {
+    text-decoration:none;
+}
+.linkk:visited{
+    color:deepskyblue;
+    
+}

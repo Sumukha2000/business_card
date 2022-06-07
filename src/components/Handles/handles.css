@@ -1,0 +1,77 @@
+.handles {
+    color: #1A1B21;
+    background: #1A1B21;
+    
+    width: 317px;
+    height: 60px;
+    margin-left: 110px;
+}
+.buttons{
+    margin-left:40px;
+    padding-top:20px;
+   
+
+
+}
+.buttonli {
+    /* Text */
+
+
+    width: 57px;
+    height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+
+
+    color: #FFFFFF;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.buttone {
+    width: 36px;
+    height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height, or 114% */
+    /* gray/700 */
+
+    color: #374151;
+    /* Inside auto layout */
+
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+.email_button {
+    font-size: 16px;
+    border-radius: 6px;
+    margin-right:8px;
+   
+    width: 115px;
+    height: 34px;
+    left: 151px;
+    top: 468px;
+    /* white */
+
+    background: #FFFFFF;
+}
+.linkedin_button {
+    margin-right: 10px;
+    font-size: 16px;
+    border-radius: 6px;
+    width: 115px;
+    height: 34px;
+    left: 283px;
+    top: 468px;
+    background: #5093E2;
+}
