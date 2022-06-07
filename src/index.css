@@ -1,6 +1,14 @@
+
 body {
     background-color: #1A1B21;
-    margin: 0;
+    width: 100%;
+    margin: 0px;
     height: 100%;
-    
+}
+
+@media screen and (max-width: 360px) {
+    body {
+        background-color: lightgreen;
+        margin-left: -90px;
+    }
 }
